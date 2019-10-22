@@ -1,0 +1,12 @@
+git init
+git remote add [alias] [url]
+or
+git clone [url]
+
+	make some changes in the file
+
+git diff
+git add .
+git diff --staged
+git commit -m "Message"
+git push origin master
